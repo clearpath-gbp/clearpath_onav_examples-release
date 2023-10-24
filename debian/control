@@ -1,0 +1,12 @@
+Source: ros-noetic-clearpath-onav-api-examples
+Section: misc
+Priority: optional
+Maintainer: Jason Higgins <jhiggins@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-clearpath-onav-api-examples
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Examples to show how to use CPR OutdoorNav API

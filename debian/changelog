@@ -1,0 +1,14 @@
+ros-noetic-clearpath-onav-api-examples (0.0.2-1focal) focal; urgency=high
+
+
+
+ -- Jason Higgins <jhiggins@clearpathrobotics.com>  Tue, 24 Oct 2023 04:00:00 -0000
+
+ros-noetic-clearpath-onav-api-examples (0.0.1-1focal) focal; urgency=high
+
+  * Initial release
+  * Contributors: José Mastrangelo
+
+ -- Jason Higgins <jhiggins@clearpathrobotics.com>  Tue, 24 Oct 2023 04:00:00 -0000
+
+
